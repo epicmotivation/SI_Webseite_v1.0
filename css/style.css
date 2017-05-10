@@ -1,0 +1,28 @@
+body {
+    /*opacity: 1;
+    transition: 2s opacity;*/
+}
+
+#about{
+    /*height: 100%*/
+}
+
+#download{
+    /*height: 100%;*/
+}
+
+.flags{
+    width: 12.5%
+}
+
+.bordertop{
+    /*border-color: lightgrey;
+    border-style: solid;
+    border-top: 1px;
+    border-left: 0;
+    border-right: 0;*/
+}
+
+#video{
+    /*height: 100%;*/
+}
